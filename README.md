@@ -1,7 +1,7 @@
 ## Hi there 👋
-Mechatronic Engineer with over 13 years of dedicated work experience mainly focused on project management, continuous improvement, engineering, focused in increase services levels and developing people in charge, interested in quality management, behaviors and attitudes, technology acceptance models, and how people growth and develop in their jobs
+**Mechatronic Engineer** with over 13 years of dedicated work experience mainly focused on project management, continuous improvement, engineering, focused in increase services levels and developing people in charge, interested in quality management, behaviors and attitudes, technology acceptance models, and how people growth and develop in their jobs
 
-- 🌱 I’m currently learning data science and its different uses in manufacturing and project management.
+- 🌱 I’m currently learning **data science** and its different uses in **manufacturing** and **project management**.
 
 <!--
 **DCelisv/DCelisv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
